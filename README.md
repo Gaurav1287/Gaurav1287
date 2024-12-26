@@ -1,8 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello%20I'm%20Gaurav%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF)  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello%20I'm%20Gaurav%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF)
 ![Profile Visit Count](https://visitcount.itsvg.in/api?id=Gaurav1287&icon=5&color=3)
 
 ## 💫 About Me:
-Hey there! I'm **Gaurav Kumar**, a web developer and aspiring data science engineer passionate about solving problems, building innovative applications, and exploring new technologies. I love working on projects that challenge and expand my skill set. Currently focusing on improving my expertise in **Data Structures and Algorithms**, **Backend Development**, and **Database Management**. My goal is to make a meaningful impact in the tech industry through creative and efficient solutions.
+Hey there! I'm **Gaurav Kumar**, an aspiring Data Science Engineer and web developer passionate about solving real-world problems through technology. My focus lies in **Data Structures & Algorithms**, **Backend Development**, and **Data Analytics**. I'm always eager to learn and explore the latest trends in technology to create impactful solutions.
+
+---
+
+## 🎇 My Highlights:
+- Solved **100+ LeetCode problems** and completed **GFG's 160 DSA Sheet**.
+- Built innovative projects like **Dr. Nithya's Dental Clinic Management App** and **AutoMob Mechanic App**.
+- Strong skills in **HTML**, **CSS**, **JavaScript**, **Python**, **Java**, **SQL**, and **PHP**.
+- Data Analytics enthusiast with hands-on experience in **Power BI**, **Pandas**, **Matplotlib**, and more.
 
 ---
 
@@ -10,11 +18,11 @@ Hey there! I'm **Gaurav Kumar**, a web developer and aspiring data science engin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&color=0077B5&labelColor=0077B5&link=https://www.linkedin.com/in/gaurav-kumar-346489207/&animation=fade-in)](https://www.linkedin.com/in/gaurav-kumar-346489207/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge&color=171515&labelColor=171515&link=https://github.com/Gaurav1287&animation=fade-in)](https://github.com/Gaurav1287)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FF6600.svg?logo=leetcode&logoColor=white&style=for-the-badge&color=FF6600&labelColor=FF6600&link=https://leetcode.com/u/gaurav1225/&animation=fade-in)](https://leetcode.com/u/gaurav1225/)  
+[![GfG](https://img.shields.io/badge/GeeksforGeeks-%2310705c.svg?logo=geeksforgeeks&logoColor=white&style=for-the-badge&color=0F9D58&labelColor=0F9D58)](https://www.geeksforgeeks.org/user/gaurav1251251/)
 
 ---
 
 ## 💻 Tech Stack:
-
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
@@ -29,6 +37,11 @@ Hey there! I'm **Gaurav Kumar**, a web developer and aspiring data science engin
 ### Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 
+### Data Analytics Tools:
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=flat&logo=&logoColor=white)
+
 ### Others:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F14A29.svg?style=flat&logo=git&logoColor=white)  
@@ -36,7 +49,7 @@ Hey there! I'm **Gaurav Kumar**, a web developer and aspiring data science engin
 
 ---
 
-## 📊 GitHub Stats:
+## 🏆 GitHub Achievements:
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav1287&theme=radical&hide_border=true&count_private=true&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav1287&theme=radical&hide_border=true&layout=compact)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav1287&theme=radical&hide_border=true)  
@@ -44,10 +57,28 @@ Hey there! I'm **Gaurav Kumar**, a web developer and aspiring data science engin
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gaurav1287&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Key Projects:
+### 1. **Dr. Nithya's Dental & Smile Design Clinic**
+- **Description**: Developed a web application for managing a dental clinic with modules for patient management, appointment scheduling, and laboratory tests.
+- **Technologies**: HTML, CSS, JavaScript, React, Firebase.
+- **Key Contribution**: Built a Patient Diary module to track and display patient history, visits, and test results.
+
+### 2. **AutoMob Mechanic App** *(Ongoing)*
+- **Description**: Created a platform for automobile repair and service bookings with integrated predictive maintenance features.
+- **Technologies**: JavaScript, HTML, CSS, Python (Scikit-learn, Pandas).
+- **Key Features**:
+  - Service booking and repair tracking functionalities.
+  - Accurate service recommendations to reduce repair costs and downtime.
+
+---
+
+## 🏅 Certifications & Achievements:
+- **JavaScript, HTML, and TypeScript** - Infosys Springboard *(August 2024)*
+- **Bharat Intern Virtual Internship in Web Development** - Bharat Intern *(June 2024)*
+- **LeetCode 100+ Problem Challenge** *(November 2024)*
+- **Python for Data Science** - Coding Ninjas *(Ongoing)*
 
 ---
 
 ## 💬 Let's Collaborate!
-Feel free to connect with me and explore exciting opportunities or projects together!
+Looking forward to connecting and working together on exciting projects!
