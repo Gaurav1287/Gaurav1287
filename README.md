@@ -6,10 +6,36 @@ Hey there! I'm **Gaurav Kumar**, a web developer and aspiring data science engin
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-346489207/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Gaurav1287)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FF6600.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/gaurav1225/)  
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <a href="https://www.linkedin.com/in/gaurav-kumar-346489207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Gaurav1287" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/gaurav1225/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</div>
+
+<style>
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+img {
+  animation: pulse 2s infinite;
+  margin: 10px;
+}
+</style>
 
 ---
 
