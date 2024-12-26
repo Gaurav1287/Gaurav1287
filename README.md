@@ -77,5 +77,10 @@ Hey there! I'm **Gaurav Kumar**, an aspiring Data Science Engineer and web devel
 
 ---
 
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Gaurav1287&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 💬 Let's Collaborate!
 Looking forward to connecting and working together on exciting projects!
