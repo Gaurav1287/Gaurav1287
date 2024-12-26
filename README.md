@@ -22,28 +22,19 @@ Hey there! I'm **Gaurav Kumar**, an aspiring Data Science Engineer and web devel
 ## 💻 Tech Stack:
 
 ### Frontend:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white&link=https://www.w3.org/TR/html5/)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white&link=https://www.w3.org/TR/CSS/#css)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white&link=https://www.w3.org/TR/html5/)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white&link=https://www.w3.org/TR/CSS/#css)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)
 
 ### Backend:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white&link=https://www.php.net/)  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54&link=https://www.python.org/)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white&link=https://firebase.google.com/)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white&link=https://www.php.net/)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54&link=https://www.python.org/)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white&link=https://firebase.google.com/)
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white&link=https://www.mysql.com/)
 
 ### Data Analytics Tools:
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white&link=https://powerbi.microsoft.com/)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&link=https://pandas.pydata.org/)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=flat&logo=&logoColor=white&link=https://matplotlib.org/)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white&link=https://powerbi.microsoft.com/)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&link=https://pandas.pydata.org/)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=flat&logo=&logoColor=white&link=https://matplotlib.org/)
 
 ### Others:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&link=https://www.java.com/)  
-![Git](https://img.shields.io/badge/git-%23F14A29.svg?style=flat&logo=git&logoColor=white&link=https://git-scm.com/)  
-![DSA](https://img.shields.io/badge/DSA-%23FF6600.svg?style=flat&logo=data&logoColor=white&link=https://www.geeksforgeeks.org/data-structures/)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white&link=https://www.java.com/)  ![Git](https://img.shields.io/badge/git-%23F14A29.svg?style=flat&logo=git&logoColor=white&link=https://git-scm.com/)  ![DSA](https://img.shields.io/badge/DSA-%23FF6600.svg?style=flat&logo=data&logoColor=white&link=https://www.geeksforgeeks.org/data-structures/)
 
 
 ---
